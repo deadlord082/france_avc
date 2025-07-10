@@ -1,3 +1,7 @@
+installer les dépendance
+
+npm install
+
 lancer le projet
 
 npm start
